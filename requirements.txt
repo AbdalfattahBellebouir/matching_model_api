@@ -1,0 +1,7 @@
+fastapi
+sentence_transformers
+elasticsearch==6.8.2
+numpy
+typing
+pydantic
+uvicorn

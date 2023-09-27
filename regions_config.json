@@ -1,0 +1,86 @@
+{
+    "es": {
+          "region_input_length": 60,
+          "productmatches_region_index": "productmatches",
+          "automatching_index": "es_automatching_productmatches",
+          "model_path": "/root/omarouzdou/matching_jobs/models/es/matching_model.h5",
+          "embedding_path": "/root/omarouzdou/matching_jobs/models/es/word2vec_full.model",
+          "specs_index": "/root/omarouzdou/matching_jobs/models/es/specs_index.pkl",
+          "region_language": "spanish",
+          "country_enum": "ES"
+    },
+    "si": {
+          "region_input_length": 30,
+          "productmatches_region_index": "si_productmatches",
+          "automatching_index": "si_automatching_productmatches",
+          "model_path": "/root/omarouzdou/matching_jobs/models/si/matching_model.h5",
+          "embedding_path": "/root/omarouzdou/matching_jobs/models/si/word2vec_full.model",
+          "specs_index": "/root/omarouzdou/matching_jobs/models/si/specs_index.pkl",
+          "region_language": "slovene",
+          "country_enum": "SI"
+    },
+    "pt": {
+          "region_input_length": 60,
+          "productmatches_region_index": "pt_productmatches",
+          "automatching_index": "pt_automatching_productmatches",
+          "model_path": "/root/omarouzdou/matching_jobs/models/es/matching_model.h5",
+          "embedding_path": "/root/omarouzdou/matching_jobs/models/es/word2vec_full.model",
+          "specs_index": "/root/omarouzdou/matching_jobs/models/es/specs_index.pkl",
+          "region_language": "spanish",
+          "country_enum": "PT"
+    },
+    "nl": {
+          "region_input_length": 60,
+          "productmatches_region_index": "nl_productmatches",
+          "automatching_index": "nl_automatching_productmatches",
+          "model_path": "/root/omarouzdou/matching_jobs/models/nl/matching_model.h5",
+          "embedding_path": "/root/omarouzdou/matching_jobs/models/nl/word2vec_full.model",
+          "specs_index": "/root/omarouzdou/matching_jobs/models/nl/specs_index.pkl",
+          "region_language": "dutch",
+          "country_enum": "NL"
+    },
+    "de": {
+          "region_input_length": 30,
+          "productmatches_region_index": "de_productmatches",
+          "automatching_index": "de_automatching_productmatches",
+          "region_language": "german",
+          "country_enum": "DE"
+    },
+    "at": {
+          "region_input_length": 30,
+          "productmatches_region_index": "at_productmatches",
+          "automatching_index": "at_automatching_productmatches",
+          "region_language": "german",
+          "country_enum": "AT"
+    },
+    "swe": {
+          "region_input_length": 30,
+          "productmatches_region_index": "swe_productmatches",
+          "automatching_index": "swe_automatching_productmatches",
+          "region_language": "swedish",
+          "country_enum": "SWE"
+    },
+    "tr": {
+          "region_input_length": 30,
+          "productmatches_region_index": "tr_productmatches",
+          "automatching_index": "tr_automatching_productmatches",
+          "region_language": "turkish",
+          "country_enum": "TR"
+    },
+    "usa": {
+          "region_input_length": 30,
+          "productmatches_region_index": "usa_productmatches",
+          "automatching_index": "usa_automatching_productmatches",
+          "region_language": "english",
+          "country_enum": "US",
+          "language": "english"
+    },
+    "uk": {
+          "region_input_length": 30,
+          "productmatches_region_index": "uk_productmatches",
+          "region_language": "english",
+          "country_enum": "UK",
+          "language": "english",
+          "automatching_index": "uk_automatching_productmatches"
+    }
+}
